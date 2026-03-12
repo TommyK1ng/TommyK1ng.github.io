@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "WangHua"
+title                    : "HuaWang"
 title_separator          : "-"
-name                     : &name "WangHua"
-description              : &description "WangHua"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "HuaWang"
+description              : &description "HuaWang"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://TommyK1ng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "WangHua (王华)"
+  name             : "HuaWang (王华)"
   pronouns         : # example: "she/her"  
   bio              : "MS Student @ BJUT"
   location         : "Beijing, China"
@@ -35,10 +35,9 @@ author:
  
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   github           : "https://github.com/TommyK1ng"
   steam            :  "https://steamcommunity.com/id/yoursteamid"
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+
  
  
 # Publication Category - The following the list of publication categories and their headings
