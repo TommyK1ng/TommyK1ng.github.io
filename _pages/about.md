@@ -19,4 +19,13 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
 
 
 # 📝Publications
-- Refer to my Google Scholar Profile for publication list.
+- Medical multimodal large models:
+![MEPNet Image](/images/mepnet.png)
+
+**MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation**
+
+X. Zhang, Y. Shi, J. Ji, C. Zheng, and L. Qu  
+
+*AAAI Conference on Artificial Intelligence (AAAI), 2025*
+
+[Paper](link) | [Code](link)
