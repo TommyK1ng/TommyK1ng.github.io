@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-🤗I am a second-year MS student in College of Computer Science at Beijing University of Technology (BJUT), supervised by Prof. Junzhong Ji and Prof. Xiaodan Zhang. I received my B.Eng in School of Computer and Information from Hefei University of Technology (HFUT) in 2023.
-📌 My research interests lie in Unified multimodal large model(Uni-MLLMs) and Medical multimodal large models (Med-MLLMs).
+🤗 I am a second-year MS student in the College of Computer Science at Beijing University of Technology (BJUT), supervised by Prof. Xiaodan Zhang.
 
-✉️ Welcome to contact me for any discussion and cooperation!
+My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Medical Multimodal Large Models (Med-MLLMs).
 
-💥 💥 I will graduate in 2026 and am currently seeking opportunities for PhD studies and research internships. If you are interested, please feel free to contact me 💥 💥
+✉️ I am always open to discussions and collaborations.
+
+💥 I expect to graduate in 2027 and am currently seeking PhD opportunities and research internships. Please feel free to contact me if you are interested in my work.
 
 Getting started
 ======
