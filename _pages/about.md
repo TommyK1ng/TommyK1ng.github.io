@@ -30,14 +30,9 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
             margin-bottom:20px;">
 
 <img src="/images/MoEA-Net.png" style="max-width:100%; height:auto; margin-bottom:12px;">
-
-<b style="font-size:18px;">MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation</b><br><br>
-
-X. Zhang, Y. Shi, J. Ji, C. Zheng, and L. Qu<br><br>
-
-<i>AAAI Conference on Artificial Intelligence (AAAI), 2025</i><br><br>
-
+<b style="font-size:18px;">MoEA-Net: Modality-Incremental Expert Aggregation Network for Retinal Prognostic Prediction</b>
+<br><br>Hua Wang, X. Zhang, Y. Shi, C. Zheng, W. Zhang X. Yu<br><br>
+<i>AAAI Conference on Artificial Intelligence (AAAI), 2026</i><br><br>
 <a href="paper_link"><b>Paper</b></a> | 
 <a href="code_link"><b>Code</b></a>
-
 </div>
