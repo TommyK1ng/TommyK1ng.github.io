@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year MS student in the College of Computer Science at Beijing University of Technology (BJUT), supervised by Prof. Xiaodan Zhang.
+I am a second-year MS student in the College of Computer Science at Beijing University of Technology (BJUT), supervised by [Prof. Xiaodan Zhang](https://zhangxiaodan-bjut.github.io/).
+
 My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Medical Multimodal Large Models (Med-MLLMs).I am always open to discussions and collaborations.
 
 💥 💥**I expect to graduate in 2027 and am currently seeking PhD opportunities and research internships. Please feel free to contact me if you are interested in my work.**💥 💥
