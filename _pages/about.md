@@ -28,7 +28,7 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
             text-align:center;
             margin-bottom:20px;">
 
-<img src="/images/mepnet.png" width="280" style="margin-bottom:12px;">
+<img src="/images/MoEA-Net.png" width="280" style="margin-bottom:12px;">
 
 <b>MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation</b><br><br>
 
