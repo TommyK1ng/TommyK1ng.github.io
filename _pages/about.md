@@ -14,8 +14,8 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
 
 
 # 🔥 News
-- **[2026/03]** Our paper "GenSRL: Generative Spatiotemporal Representation Learning for Ophthalmic Prognosis Prediction" was accepted to CVPR 2026. <span style="color:red"><strong>[Paper]</strong></span>
-- **[2025/08]** Our paper "MoEA-Net: Modality-Incremental Expert Aggregation Network for Retinal Prognostic Prediction" was accepted to AAAI 2026. [Paper] [code]
+- **[2026/03]** Our paper "GenSRL: Generative Spatiotemporal Representation Learning for Ophthalmic Prognosis Prediction" was accepted to CVPR 2026.**[Paper]**
+- **[2025/08]** Our paper "MoEA-Net: Modality-Incremental Expert Aggregation Network for Retinal Prognostic Prediction" was accepted to AAAI 2026. **[Paper]** **[code]**
 
 
 # 📝Publications
