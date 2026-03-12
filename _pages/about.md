@@ -24,13 +24,14 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
 <div style="border:1px solid #ddd;
             border-radius:10px;
             padding:20px;
-            width:320px;
+            width:100%;
+            box-sizing:border-box;
             text-align:center;
             margin-bottom:20px;">
 
-<img src="/images/MoEA-Net.png" width="280" style="margin-bottom:12px;">
+<img src="/images/MoEA-Net.png" style="max-width:100%; height:auto; margin-bottom:12px;">
 
-<b>MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation</b><br><br>
+<b style="font-size:18px;">MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation</b><br><br>
 
 X. Zhang, Y. Shi, J. Ji, C. Zheng, and L. Qu<br><br>
 
