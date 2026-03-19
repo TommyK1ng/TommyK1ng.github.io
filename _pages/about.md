@@ -32,6 +32,9 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
 <b style="font-size:18px;">MoEA-Net: Modality-Incremental Expert Aggregation Network for Retinal Prognostic Prediction</b>
 <br><br>Hua Wang, X. Zhang, Y. Shi, C. Zheng, W. Zhang X. Yu<br><br>
 <i>AAAI Conference on Artificial Intelligence (AAAI), 2026</i><br><br>
-<a href="paper_link"><b>Paper</b></a> | 
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/37946"><b>Paper</b></a> | 
 <a href="code_link"><b>Code</b></a>
 </div>
+
+# 🎖 Awards and Honors
+- First Prize for Scientific and Technological Innovation, 2026
