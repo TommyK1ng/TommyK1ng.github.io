@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Poster Presentation at AAAI 2026<br />AAAI Conference on Artificial Intelligence (AAAI 2026); Singapore Expo, Singapore",
+    1.3352329,
+    103.9598931
   ],
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
