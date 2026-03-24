@@ -38,3 +38,4 @@ My research interests include Unified Multimodal Large Models (Uni-MLLMs) and Me
 
 # 🎖 Awards and Honors
 - First Prize for Scientific and Technological Innovation, 2026
+- Second Prize of the 19th China Computer Gaming Championship, 2025
